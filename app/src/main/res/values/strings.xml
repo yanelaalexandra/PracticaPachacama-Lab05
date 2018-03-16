@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica-Pachacama</string>
+
+    <string-array name="android_layout_arrays2">
+        <item></item>
+        <item>Americana</item>
+        <item>Peperoni</item>
+        <item>Hawiana</item>
+        <item>Meat Lover</item>
+
+    </string-array>
+
+
+</resources>
